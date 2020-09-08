@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TXdojq/L/GgJpVS1MlGiPXJNvRO6Gg9iq54jFe6tYD961OF5dR1teXXW7t/KLRDSt/qckghtmEJwKhz6nk7phw==",
+  "dgSpecHash": "nqg42Ml7J/4+CEYTizw+b6XoRcVRyUjq6SVSewIigk+iNmoy6yYmndK9fON98Kkj6yM8I8tqkZyrezSSivGIvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\May\\source\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+  "projectFilePath": "C:\\Users\\May\\OneDrive\\Documents\\GitHub\\ASP.NET-Core_3.1_Exercise\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\May\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
